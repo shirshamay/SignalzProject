@@ -18,7 +18,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-var summaries = new[] { "SIGNALZ_BUY", "SIGNALZ_SELL" };
+var summaries = new[] { "SIGNALZ_BUY", "SIGNALZ_SELL", "SIGNALZ_HOLD" };
 
 app.MapGet("/weatherforecast", () =>
 {
