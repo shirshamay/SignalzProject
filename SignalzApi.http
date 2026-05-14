@@ -1,4 +1,4 @@
-@SignalzApi_HostAddress = http://localhost:5225
+@SignalzApi_HostAddress = http://localhost:5009
 
 GET {{SignalzApi_HostAddress}}/weatherforecast/
 Accept: application/json
