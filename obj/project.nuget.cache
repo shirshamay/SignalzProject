@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3cuG1ErhFD8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\OneDrive\\Documents\\SignalzProject\\SignalzApi\\SignalzApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
